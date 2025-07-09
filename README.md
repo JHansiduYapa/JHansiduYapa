@@ -15,7 +15,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/JHansiduYapa/Multi-Agent-System-for-Healthcare-Appointment-Booking">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JHansiduYapa&repo=Multi-Agent-System-for-Healthcare-Appointment-Booking" />
+        <img src="" />
       </a>
     </td>
   </tr>
@@ -32,6 +32,7 @@
     </td>
   </tr>
 </table>
+
 ###  🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/janithhansidu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@JanithHansidu) 
 
