@@ -15,7 +15,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/JHansiduYapa/Multi-Agent-System-for-Healthcare-Appointment-Booking">
-        <img src="" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JHansiduYapa&repo=Multi-Agent-System-for-Healthcare-Appointment-Booking" />
       </a>
     </td>
   </tr>
