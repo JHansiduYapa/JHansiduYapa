@@ -4,28 +4,29 @@
 ![](https://komarev.com/ghpvc/?username=JHansiduYapa&style=for-the-badge)
 
 ### 🚀 Featured Projects
-<table>
+
+<table border="0">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="background-color: white;">
       <a href="https://github.com/JHansiduYapa/Fine-Tuning-a-Small-Language-Model-for-Cypher-Query-Generation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JHansiduYapa&repo=Fine-Tuning-a-Small-Language-Model-for-Cypher-Query-Generation&theme=github_dark&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JHansiduYapa&repo=Fine-Tuning-a-Small-Language-Model-for-Cypher-Query-Generation&theme=github_light&hide_border=true" />
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="background-color: white;">
       <a href="https://github.com/JHansiduYapa/Multi-Agent-System-for-Healthcare-Appointment-Booking">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JHansiduYapa&repo=Multi-Agent-System-for-Healthcare-Appointment-Booking&theme=github_dark&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JHansiduYapa&repo=Multi-Agent-System-for-Healthcare-Appointment-Booking&theme=github_light&hide_border=true" />
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="background-color: white;">
       <a href="https://github.com/JHansiduYapa/RAG-Powered-Customer-Support-for-E-commerce">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JHansiduYapa&repo=RAG-Powered-Customer-Support-for-E-commerce&theme=github_dark&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JHansiduYapa&repo=RAG-Powered-Customer-Support-for-E-commerce&theme=github_light&hide_border=true" />
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="background-color: white;">
       <a href="https://github.com/JHansiduYapa/Transformer-Model-from-Scratch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JHansiduYapa&repo=Transformer-Model-from-Scratch&theme=github_dark&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JHansiduYapa&repo=Transformer-Model-from-Scratch&theme=github_light&hide_border=true" />
       </a>
     </td>
   </tr>
@@ -41,15 +42,15 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=JHansiduYapa&theme=default&hide_border=false&include_all_commits=false&count_private=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=JHansiduYapa&theme=default&hide_border=true&include_all_commits=false&count_private=true" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHansiduYapa&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHansiduYapa&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=JHansiduYapa&theme=default&hide_border=false" />
+        <img src="https://nirzak-streak-stats.vercel.app/?user=JHansiduYapa&theme=default&hide_border=true" />
       </td>
     </tr>
   </table>
@@ -58,4 +59,4 @@
 
 ### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=JHansiduYapa&theme=default&no-frame=false&no-bg=false&margin-w=5)
+![](https://github-profile-trophy.vercel.app/?username=JHansiduYapa&theme=default&no-frame=true&no-bg=true&margin-w=5)
